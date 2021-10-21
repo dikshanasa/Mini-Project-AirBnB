@@ -24,7 +24,7 @@ Be it staying near the metro or farm or art galleries our recommendation engine 
 Whether you are a foodie or an art lover our interactive dashboard will help you identify the best possible AirBnBs according to your needs. You can choose from a wide range of features like price per night, nearest attractions,
 distance from the city centre and so much more. We have made our dashboard user friendly so you don't have to waste much of your precious time in finding the perfect "home away from your home".
   
-Link to Dashboard -  https://rb.gy/u4awxa
+Link to Dashboard -  https://rb.gy/ubs4f9
 ## Journey to the Centre of AirBnB Pro
 - *Data*
   <p>
